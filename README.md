@@ -10,6 +10,6 @@ Repository of examples with Python3
 
     In the folder there are two files.py:
       · server.py
-      ·client.py
+      · client.py
       
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
